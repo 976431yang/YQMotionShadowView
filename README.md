@@ -4,6 +4,7 @@
 #### 视差阴影效果 - 根据手机的移动，改变阴影的位置
 
 ### 效果预览：</br>
+ ![image](https://github.com/976431yang/YQMotionShadowView/blob/master/2017-08-18 18_06_35.gif)
  ![image](https://github.com/976431yang/YQMotionShadowView/blob/master/2017-08-18 17_50_37.gif)
 - 实际显示效果比截图展示效果要好，偏移手机，阴影位置会跟着偏移
 
